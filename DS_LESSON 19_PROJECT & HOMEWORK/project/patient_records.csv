@@ -1,0 +1,6 @@
+Age,Gender,Blood Pressure,Cholesterol Level,Disease Status
+35,Male,120,200,Healthy
+45,Female,140,220,Healthy
+60,Male,130,180,Sick
+55,Female,150,240,Sick
+30,Male,125,190,Healthy
